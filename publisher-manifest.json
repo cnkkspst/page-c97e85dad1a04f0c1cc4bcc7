@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "ad0732eb758e1eb777aac420",
+  "owner": "cnkkspst",
+  "repo": "page-c97e85dad1a04f0c1cc4bcc7",
+  "title": "维多云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c97e85dad1a04f0c1cc4bcc7",
+      "a": "维多云",
+      "b": "",
+      "entity": "维多云",
+      "brand": "维多云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "57594ddeb768f41914b212b5f97f4ab6f6db1f4296ca49e429d65a99305b7e73",
+      "content": {
+        "keyword1": "维多云",
+        "keyword2": "",
+        "primary_entity": "维多云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "维多云相关套餐、客户端与使用说明整理页。对照基础版、旗舰版、团队版流量与设备数量，按步骤完成客户端配置。本页非授权声明。",
+          "AI_DESCRIPTION": "维多云相关套餐、客户端与使用说明整理页。对照基础版、旗舰版、团队版流量与设备数量，按步骤完成客户端配置。本页非授权声明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#0a0a0a;color:#e8e8e8;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;line-height:1.65}\na{color:#39ff14;text-decoration:none}\na:hover{text-decoration:underline}\nmain{max-width:1120px;margin:0 auto;padding:28px 20px 80px}\n.hero{min-height:78vh;display:flex;align-items:flex-start;padding-top:8vh}\n.hero-col{max-width:420px}\n.anchors{display:flex;flex-wrap:wrap;gap:10px 18px;margin:22px 0 28px;font-size:14px}\n.anchors a{border-bottom:1px solid #39ff14;padding-bottom:2px;color:#c8ffb8}\nh1{font-size:clamp(32px,6vw,52px);letter-spacing:.04em;line-height:1.15;color:#f5f5f5;font-weight:700}\n.lead{margin-top:18px;color:#b5b5b5;font-size:16px}\nh2{font-size:22px;margin:56px 0 18px;color:#39ff14;font-weight:650}\nh3{font-size:17px;margin:22px 0 8px;color:#f0f0f0}\np,li{font-size:15px;color:#cfcfcf}\nul{padding-left:1.2em;margin:8px 0 16px}\n.card{background:#141414;border-radius:22px;box-shadow:0 18px 40px rgba(0,0,0,.45);padding:22px 22px 18px;margin:14px 0}\n.wrap{overflow-x:auto}\ntable{width:100%;border-collapse:collapse;min-width:640px;font-size:14px}\nth,td{padding:12px 10px;text-align:left;border-bottom:1px solid #2a2a2a;vertical-align:top}\nth{color:#39ff14;font-weight:600}\n.feat{color:#39ff14;font-size:12px;letter-spacing:.08em}\n.faq-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}\narticle.qa{background:#141414;border-radius:22px;box-shadow:0 12px 28px rgba(0,0,0,.4);padding:18px}\narticle.qa h3{margin-top:0}\n.note{color:#888;font-size:13px;margin-top:8px}\nfooter{margin-top:64px;color:#666;font-size:13px}\n@media(max-width:720px){\n.hero{min-height:auto;padding-top:24px}\n.hero-col{max-width:100%}\n.faq-grid{grid-template-columns:1fr}\n}\n</style><main>\n<section class=\"hero\" id=\"top\">\n<div class=\"hero-col\">\n<nav class=\"anchors\" aria-label=\"页内目录\">\n<a href=\"#plans\">套餐</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#guide\">使用说明</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n<h1>维多云</h1>\n<p class=\"lead\">窄栏说事。黑底，绿字点题。流量、设备、线路对照写在后面。不自称官方，不编节点与评价。</p>\n</div></section>\n\n<section id=\"plans\">\n<h2>套餐对照</h2>\n<p>三档按月计价，年付另标。权益以表内为准。</p>\n<div class=\"wrap card\">\n<table>\n<thead>\n<tr>\n<th>项目</th>\n<th>基础版</th>\n<th>旗舰版 <span class=\"feat\">推荐</span></th>\n<th>团队版</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>月价</td>\n<td>¥15/月</td>\n<td>¥35/月</td>\n<td>¥85/月</td>\n</tr>\n<tr>\n<td>年付</td>\n<td>按年付仅需 ¥150/年</td>\n<td>按年付仅需 ¥350/年</td>\n<td>按年付仅需 ¥850/年</td>\n</tr>\n<tr>\n<td>流量</td>\n<td>每月 100GB 极速流量</td>\n<td>每月 300GB 极速流量</td>\n<td>每月 1000GB 极速流量</td>\n</tr>\n<tr>\n<td>同时在线</td>\n<td>3 台设备</td>\n<td>5 台设备</td>\n<td>20 台设备</td>\n</tr>\n<tr>\n<td>流媒体</td>\n<td>解锁基础流媒体</td>\n<td>全节点原生流媒体解锁</td>\n<td>VIP 专属高带宽节点</td>\n</tr>\n<tr>\n<td>线路与支持</td>\n<td>普通线路节点池</td>\n<td>IPLC 专线游戏加速优化；7x24 优先工单支持</td>\n<td>支持企业定制路由；专属客户经理服务</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p class=\"note\">价格与权益来自公开对照资料。下单、支付与到账以实际服务方页面为准。</p>\n</section>\n\n<section id=\"clients\">\n<h2>客户端</h2>\n<div class=\"card\">\n<h3>怎么选</h3>\n<p>桌面、手机各用对应客户端。未提供已确认下载地址时，请从你已购服务的面板获取订阅与安装包，勿使用来路不明的安装文件。</p>\n<h3>通用步骤</h3>\n<ul>\n<li>登录服务面板，复制订阅链接。</li>\n<li>安装系统匹配的客户端。</li>\n<li>导入订阅，更新节点列表。</li>\n<li>选择节点后开启连接，系统代理按客户端提示设置。</li>\n</ul>\n<p class=\"note\">本页不提供安装包直链，避免伪造下载地址。</p>\n</div>\n</section>\n\n<section id=\"guide\">\n<h2>使用说明</h2>\n<div class=\"card\">\n<h3>开通</h3>\n<p>选定套餐。完成支付后回到面板确认流量与到期日。</p>\n<h3>连接</h3>\n<p>导入订阅。测延迟可自行决定。游戏或视频按套餐说明选用对应线路类型。</p>\n<h3>设备数</h3>\n<p>同时在线受套餐上限约束。超出时先断开闲置设备。</p>\n<h3>流量</h3>\n<p>以面板计数为准。接近上限时降速或停连，视服务规则而定。本页不承诺具体限速数值。</p>\n</div>\n</section>\n\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faq-grid\">\n<article class=\"qa\">\n<h3>维多云是不是官方站点？</h3>\n<p>本页是品牌词检索落地页，用于整理套餐与用法。facts 未证明官方身份，正文不宣称授权或唯一官网。</p>\n</article>\n<article class=\"qa\">\n<h3>旗舰版和基础版差在哪？</h3>\n<p>流量 300GB 对 100GB。设备 5 台对 3 台。旗舰版另含原生流媒体解锁、IPLC 游戏向优化与优先工单。</p>\n</article>\n<article class=\"qa\">\n<h3>团队版适合谁？</h3>\n<p>需要更高流量、更多同时在线、定制路由与客户经理对接的小组。月价 ¥85，年付 ¥850。</p>\n</article>\n<article class=\"qa\">\n<h3>客户端从哪下？</h3>\n<p>以你账户面板给出的说明为准。没有可靠地址时不在此页放置下载链接。</p>\n</article>\n<article class=\"qa\">\n<h3>年付怎么理解？</h3>\n<p>对照资料写明基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850。是否可开、是否可退，以实际规则为准。本页不编造退款政策。</p>\n</article>\n<article class=\"qa\">\n<h3>连不上怎么办？</h3>\n<p>先更新订阅。换节点。检查系统时间与本地防火墙。仍失败则走套餐对应的工单或客户经理渠道。</p>\n</article>\n</div>\n</section>\n\n<footer>维多云信息整理。仅供浏览对照。</footer>\n</main>",
+          "hash": "ce582ea1519cdfa101d74136d23a076c78c5c0ee217ea846a61f76cba0d9fcfb",
+          "seo": {
+            "title": "维多云官网｜维多云机场套餐、客户端与使用说明",
+            "keywords": "维多云,维多云官网,维多云机场,维多云机场官网,机场套餐,机场客户端,机场使用说明,云服务",
+            "description": "维多云相关套餐、客户端与使用说明整理页。对照基础版、旗舰版、团队版流量与设备数量，按步骤完成客户端配置。本页非授权声明。"
+          },
+          "provider": "deepseek",
+          "model": "grok-4-6",
+          "design": {
+            "no": "9110",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "1 墨黑配荧光绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "anlwequ.cn",
+    "host": "p-6626639807.anlwequ.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "935bba606e95e841210bafdea9c0224c19bdbbc2efec3c9a84961c147f696a80",
+    "sitemap.xml": "31a5fbed9ff14fc83ff64d67e9347451492b255ac8c4d9dab426f1e58d0bce38",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b0032d062d7f2c0f5226d5de4022263ad065a2656563f4b6b5383e32f16958ba",
+    "robots.txt": "1f1be48adb80c0eb06e1f5c14b97d7d4762640751f82772759b30b33cf6f743b",
+    "df66bd35d7f6d690b432fb9a0b525998.txt": "191fd1d37a64e195042d9b1731a0a8784bbc06dd06699ed22046ce261076ee86"
+  },
+  "revision": "41af0169f125f7a71698b9b07b8822533f224f7f4556b9d3d2f460c0b70009e4"
+}
